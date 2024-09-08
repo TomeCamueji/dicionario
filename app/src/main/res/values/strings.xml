@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Joker App Dev</string>
+    <string name="menu_home">Dicionário</string>
+    <string name="menu_word_day">Palavra do dia</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="menu_about">Sobre</string>
+    <string name="social">Social</string>
+    <string name="txt_descretion">Este app é um dicionário de expressões em calão angolano, uma compilação de palavras e expressões populares usadas no cotidiano em Angola, muitas vezes de forma coloquial ou informal. O \"calão\" refere-se ao uso de gírias, expressões regionais, ou termos que não são considerados parte do português formal, mas que são amplamente utilizados e compreendidos no contexto cultural e linguístico angolano.</string>
+    <string name="created">created by \"Tomé Camueji\"</string>
+    <string name="build_versao">Versão (%1$s)</string>
+</resources>
